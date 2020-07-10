@@ -1,0 +1,16 @@
+<html>
+  <head>
+    <title> MIAMI RESORT</title>
+    <link href="/home/mwaura/Documents/Resort-Website/styles.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <h1> PICTURES </h1>
+    <h2><strong>We believe in providing the Best services to our Customers</strong></h2>
+    <img src="/home/mwaura/Documents/Resort-Website/food.jpeg" alt="Food">
+    <img src="/home/mwaura/Documents/Resort-Website/resort.jpg" alt="Swimming pools and lounges">
+
+    <p> <strong>This and much more!</strong>  </p>
+  </body>
+</html>
+
+
